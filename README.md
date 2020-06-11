@@ -1,2 +1,2 @@
 # Inference
-Predict the status with DBSCAN algorithm
+Predict the status from Gsensor with DBSCAN algorithm
